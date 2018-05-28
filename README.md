@@ -40,3 +40,13 @@ O resultado esperado é algo parecido com:
 </plist> // fecha o plist
 Pronto, a configuração está feita!!!
 
+
+# StatusBar
+
+Alterando a barra de status no android e ios utilize statusBar
+
+# React-Native-Router-Flux
+
+Uma forma mais facil de navegar por cenas
+
+https://github.com/aksonov/react-native-router-flux
