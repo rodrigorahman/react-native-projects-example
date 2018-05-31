@@ -50,3 +50,4 @@ Alterando a barra de status no android e ios utilize statusBar
 Uma forma mais facil de navegar por cenas
 
 https://github.com/aksonov/react-native-router-flux
+
